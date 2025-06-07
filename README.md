@@ -60,6 +60,11 @@ If you use this code in your own work, please cite:
 ```
 
 ---
+## ⚠️ Errata
+
+In Fig.2 in the paper (the wind triangle), the direction of the wind velocity vector $$v_w$$ should be reversed.
+
+---
 
 ## 📬 Contact
 
