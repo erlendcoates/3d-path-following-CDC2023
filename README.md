@@ -37,7 +37,7 @@ The code implements a 3D path-following guidance law tailored for fixed-wing UAV
 
 3. Run the script:
    ```matlab
-   main_simulation_script
+   run3DGuidanceSim
    ```
 
 4. EPS figures will be saved in the `figures/` folder.
